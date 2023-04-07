@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(0,0,0);
+    background-image:url(https://scontent.fabe1-1.fna.fbcdn.net/v/t31.18172-8/15369209_1687571471555778_1556180787722800236_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=ppUqBdVZekQAX9ho--4&_nc_ht=scontent.fabe1-1.fna&oh=00_AfA9ls-vk9cLE4SENyFM3g6QgphNfa1riId_Q1SK8ptzSA&oe=64463790);
+    background-size: auto;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:25px;
+}
+
+h1{
+    font-size:50px;
+}
+
+.heading{
+    color:white;
+    padding:22px;
+    text-align:center;
+}
+
+.title{
+    padding:auto;
+}
