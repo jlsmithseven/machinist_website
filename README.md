@@ -6,3 +6,7 @@ I plan to make this website first and then a portfolio page.
 ## First Changes
 
 First time saving changes in Git!
+
+## Local Development
+
+1. Open index.html in your browser.
